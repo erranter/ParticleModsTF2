@@ -7,7 +7,7 @@ As of right now any mods in here are cosmetic only and client side. I'm looking 
 
 # Current Mods
 - KraberTracer, replaces Kraber projectile with a thermite
-+ Doesn't include sound
-+ No explosion
+-   Doesn't include sound
+-   No explosion
 - WingmanEliteTracer, replaces wingman projectile with a mastiff one
-+ Includes sound
+-   Includes sound
