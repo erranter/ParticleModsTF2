@@ -11,7 +11,6 @@ As of right now any mods in here are cosmetic only and client side. I'm looking 
   - No explosion
 - WingmanEliteTracer, replaces wingman projectile with a mastiff one
   - Includes sound
- - Kraber Arc
+- Kraber Arc
   - Doesn't include sound
   - No explosion
-  - Experimental
