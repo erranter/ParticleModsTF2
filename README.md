@@ -14,3 +14,4 @@ As of right now any mods in here are cosmetic only and client side. I'm looking 
  - Kraber Arc
   - Doesn't include sound
   - No explosion
+  - Experimental
