@@ -1,4 +1,4 @@
-# ParticleModsTF2
+# ParticleModsTF2 (UNMAINTAINED)
 Repository For All of My Titanfall 2 Particle Mods
 
 Particles can be swapped around by adjusting the particles used for a weapon or ability in the common vpk under scripts\weapons. In the weapons folder is a bunch of .txt files, all corresponding to different weapons and abilities for both titans and pilots. Each of these files has and effects section where you can swap out the particles spawned by that gun/ability for any other particles of the same type.
